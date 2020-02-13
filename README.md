@@ -20,6 +20,7 @@ Automatização da instalação do zabbix agent, utilizando Ansible.
 Dois arquivos precisam ser alterados:
 
 **1. zabbix_agentd.conf**
+
 **2. agent-zabbix.yml**
 
 
