@@ -1,4 +1,4 @@
-# Ansible-zabbix-agent
+# Zabbix Ansible dev
 Automatização da instalação do zabbix agent, utilizando Ansible.
 
 ## Estrutura do repositório:
@@ -20,6 +20,11 @@ Automatização da instalação do zabbix agent, utilizando Ansible.
 Dois arquivos precisam ser alterados:
 
 **1. zabbix_agentd.conf**
+<<<<<<< HEAD
+=======
+
+**2. agent-zabbix.yml**
+>>>>>>> 8242925210780c392e5bfcccfe5eac00027b2694
 
 **2. agent-zabbix.yml**
 
