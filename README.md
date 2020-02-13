@@ -1,4 +1,4 @@
-# Ansible-zabbix-agent
+# Zabbix Ansible dev
 Automatização da instalação do zabbix agent, utilizando Ansible.
 
 ## Estrutura do repositório:
